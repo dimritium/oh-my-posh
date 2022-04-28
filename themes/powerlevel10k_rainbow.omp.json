@@ -32,7 +32,7 @@
             "{{ if gt .Ahead 0 }}#89d1dc{{ end }}",
             "{{ if gt .Behind 0 }}#4e9a06{{ end }}"
           ],
-          "foreground": "#fff",
+          "foreground": "#000000",
           "powerline_symbol": "\ue0b0",
           "properties": {
             "branch_icon": "\uf126 ",
@@ -64,7 +64,7 @@
         },
         {
           "background": "#00acd7",
-          "foreground": "#fff",
+          "foreground": "#111111",
           "invert_powerline": true,
           "powerline_symbol": "\ue0b2",
           "properties": {
@@ -76,7 +76,7 @@
         },
         {
           "background": "#4063D8",
-          "foreground": "#fff",
+          "foreground": "#111111",
           "invert_powerline": true,
           "powerline_symbol": "\ue0b2",
           "properties": {
@@ -87,8 +87,8 @@
           "type": "julia"
         },
         {
-          "background": "#2196f3",
-          "foreground": "#fff",
+          "background": "#FFDE57",
+          "foreground": "#111111",
           "invert_powerline": true,
           "powerline_symbol": "\ue0b2",
           "properties": {
@@ -142,7 +142,7 @@
         },
         {
           "background": "#ffff66",
-          "foreground": "#fff",
+          "foreground": "#111111",
           "invert_powerline": true,
           "powerline_symbol": "\ue0b2",
           "style": "powerline",
@@ -151,7 +151,7 @@
         },
         {
           "background": "#c4a000",
-          "foreground": "#fff",
+          "foreground": "#000000",
           "invert_powerline": true,
           "powerline_symbol": "\ue0b2",
           "style": "powerline",
